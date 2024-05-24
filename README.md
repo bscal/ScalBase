@@ -1,1 +1,1 @@
-# ScalBase
+Some base files I use in projects. Your results may vary
